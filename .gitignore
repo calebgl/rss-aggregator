@@ -2,5 +2,4 @@ rss-aggregator
 vendor
 tmp
 
-.env
 .env*.local
